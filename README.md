@@ -1,6 +1,9 @@
 # Flutter Easy GetX 
-![alt text](https://github.com/TasnuvaOshin/Flutter_Easy_GetX/blob/main/Screenshot%202021-07-29%20at%204.39.04%20AM.png?raw=true)
 
+
+<div>
+<img src="https://github.com/TasnuvaOshin/Flutter_Easy_GetX/blob/main/Screenshot%202021-07-29%20at%204.39.04%20AM.png" width="300" height="512"/>
+</div>
 
 ## Description
 
