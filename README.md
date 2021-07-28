@@ -7,7 +7,7 @@
 
 ## Description
 
-People ask me how I manage state,dependency,routes etc when I work with flutter,Here is the Simple Berief About GetX which I'm using for Dummy Basic Ecommerce Concept based flutter app development . 
+People ask me how I manage state,dependency,routes etc when I work with flutter,Here is the Simple Berief About GetX which I used for Dummy Basic Ecommerce Concept based flutter app development . 
 Here I cover 
 ##
 * State Management 
